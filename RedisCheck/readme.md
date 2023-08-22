@@ -31,3 +31,7 @@ Reference: https://redis.io/docs/management/optimization/latency/
 Reference 1: Redis security feature - https://redis.io/docs/management/security/
 
 Reference 2: Section Connect to your production Redis with TLS in https://redis.io/docs/clients/dotnet/
+
+## REFERENCE
+
+1. High level Redis architecture of famous company - https://redis.io/docs/about/users/
