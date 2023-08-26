@@ -22,6 +22,29 @@ T.B.D
 
 ### 2. redis-cli
 
+- Monitor redis - reference https://sematext.com/blog/redis-metrics/
+
+- Monitor the memory utilization:
+```
+info memory
+```
+
+- Get server info:
+```
+info server
+```
+
+- Work with Azure Redis Cache (ARC)
+  + `command help`: display some way to play around with ARC
+  + `<command> help`: display how to use <command> correctly
+
+Reference to read the command detail - https://redis.io/docs/reference/command-tips/
+
+> [!NOTE]
+> REFERENCES:
+> 1. MITM attacks - T.B.D
+> 2.Use the Redis command-line tool with Azure Cache for Redis - https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-redis-cli-tool
+
 ### 3. Diagnosing latency issues
 
 Reference: https://redis.io/docs/management/optimization/latency/
