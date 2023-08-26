@@ -7,7 +7,7 @@ Main components:
 - `<ItemGroup>`: Used to add inputs, such as source code files, into the build system.
 - `<Target>`: Used to specify and execute build operations.
 
-1. **<PropertyGroup>**
+1. **PropertyGroup**
 
 Properties represent the necessary information required to build a project. Such properties are defined within a PropertyGroup element. These properties consist of key-value pairs where the property element name defines the property key and the content of the element defines the property value.
 
