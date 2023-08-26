@@ -43,7 +43,7 @@ Reference to read the command detail - https://redis.io/docs/reference/command-t
 > [!NOTE]
 > REFERENCES:
 > 1. MITM attacks - T.B.D
-> 2.Use the Redis command-line tool with Azure Cache for Redis - https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-redis-cli-tool
+> 2. Use the Redis command-line tool with Azure Cache for Redis - https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-redis-cli-tool
 
 ### 3. Diagnosing latency issues
 
