@@ -7,4 +7,8 @@
 # 3. Ansible
 - T.B.D
 
+# 4. Helm
+- T.B.D
 
+# 5. SonarQ
+- T.B.D
