@@ -55,6 +55,11 @@ Reference 1: Redis security feature - https://redis.io/docs/management/security/
 
 Reference 2: Section Connect to your production Redis with TLS in https://redis.io/docs/clients/dotnet/
 
+### 5. Streams
+There are 4 basic commands (https://redis.io/docs/data-types/streams/#basic-commands):
+- XADD/XREAD/XRANGE/XLEN
+- Advanced commands for Redis streams could be found in https://redis.io/commands/?group=stream 
+- Important concept to know about stream: Entry IDs, Consumer Group
 ## REFERENCE
 
 1. High level Redis architecture of famous company - https://redis.io/docs/about/users/
