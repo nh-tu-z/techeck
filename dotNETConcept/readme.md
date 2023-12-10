@@ -17,4 +17,8 @@
 [^1]: [Start developing extensions in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/extensibility/starting-to-develop-visual-studio-extensions?view=vs-2022)
 
 
+# 4. code generator example - https://github.com/kubernetes-client/csharp/tree/master/src/LibKubernetesGenerator
 
+# 5. MemberwiseClone() of object
+
+# 6. Crawl the dotnet github https://github.com/dotnet
