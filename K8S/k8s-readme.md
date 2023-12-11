@@ -38,8 +38,6 @@ k8s_request_latency_seconds - Latency histograms broken down by method, api grou
 kubectl drain
 
 3. AWS EKS
-- Access key: AKIASZ647C2Z7BSCGPA7
-- Secret Access key: 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
 
 - Install aws cli
 - Should remove configuration in .aws config before using ```aws configure``` to prevent conflict
